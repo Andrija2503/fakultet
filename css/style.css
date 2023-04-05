@@ -1,0 +1,53 @@
+body{
+    background-color: rgba(128, 128, 128, 0.521);
+    text-align: center;
+    margin: 0;
+}
+
+.wrap {
+    width: 600px;    
+    margin: 0 auto;
+}
+
+a {
+    
+    display: inline-block;
+    margin: 10px ;
+    background-color: aqua;
+    border: 1px solid red;
+    padding:10px;
+    text-decoration: none;
+}
+
+p {
+    margin: 10px;
+}
+
+.menu{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.result {
+    background-color: antiquewhite;
+    text-align: left;
+    padding-top: 10px;
+    
+}
+
+input {
+    margin: 10px 20px ;
+}
+.result h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    color: red;
+    
+}
+
+label {
+    margin-left:  20px;
+}
+
+
+
